@@ -1,4 +1,4 @@
-Swingy Instamart Sales Analysis
+## Swingy Instamart Sales Data Analysis
 
 This Excel project analyzes retail sales data with key performance indicators and visualizations.
 
