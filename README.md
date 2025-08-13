@@ -1,5 +1,3 @@
-<img width="1681" height="876" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/f179c038-bdcf-4ea1-bc62-d8cb19b3f7d8" />
-
 ## Swingy Instamart Sales Analysis
 
 This Excel project analyzes retail sales data with key performance indicators and visualizations.
@@ -8,6 +6,8 @@ This Excel project analyzes retail sales data with key performance indicators an
 - Comprehensive sales data analysis
 - KPI dashboard with metrics like total sales, average sales, and customer ratings
 - Breakdowns by product categories, fat content, outlet types, and demographics
+
+<img width="1681" height="876" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/f179c038-bdcf-4ea1-bc62-d8cb19b3f7d8" />
 
 ## Key Analysis Performed
 
