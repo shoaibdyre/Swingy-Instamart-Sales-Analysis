@@ -54,3 +54,5 @@ Highest sales in 2018: $204.5K
 - Add time series analysis
 - Incorporate predictive modeling
 - Create interactive Power BI dashboard version
+
+<img width="1681" height="876" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/f179c038-bdcf-4ea1-bc62-d8cb19b3f7d8" />
